@@ -1,6 +1,10 @@
+# 🎫 Coding Services SEND DM 🎫
+
 # Crawler Tool 🚀
 
 The Crawler Tool is designed to process text files and search for specific patterns. It generates formatted results and JSON files from credentials found within the text files, and can automatically send results via a Telegram bot.
+
+![Telethon-GUI](main.gif)
 
 ## Features ✨
 
